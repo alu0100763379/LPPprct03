@@ -2,6 +2,12 @@ Respuestas a las preguntas de la práctica 3
 
 1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
 
+El propósito de usar varias ramas en git es que es un sistema para desarrollo de software y permite a un grupo de trabajadores realizar funcionalidades separadas de la aplicación que estén desarrollando mediante estas ramas ya que permite modularizar el proyecto de forma fácil e intuitiva.
+
 2.- ¿Qué es una reorganización (rebase)?
 
+Reorganización es el nombre que git dá a coger todos los cambios de una rama y replicarlos sobre otra.
+
 3.- ¿Cuál es la ventaja de reorganizar (rebase)
+
+La ventaja de usar rebase es que muestra el progreso de una rama de forma lineal, como si todo el trabajo se hubiera realizado en series, aunque realmente se haya hecho en paralelo.
